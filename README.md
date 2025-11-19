@@ -1,6 +1,6 @@
 # webdev
 basic of webdev
-html
-javascript
-css
+Html
+Javascript
+Css
 react
